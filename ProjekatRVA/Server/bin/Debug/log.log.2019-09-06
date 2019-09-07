@@ -1,0 +1,255 @@
+﻿2019-09-06 11:56:11,027 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-06 11:56:15,297 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket data.
+2019-09-06 11:56:15,448 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket item data.
+2019-09-06 11:56:19,338 INFO [10] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 11:56:19,426 INFO [10] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:56:19,436 INFO [10] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:56:34,466 INFO [10] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 11:56:34,474 INFO [10] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:56:34,477 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:56:43,127 INFO [5] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-06 11:56:43,344 INFO [10] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-06 11:56:44,631 INFO [9] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-06 11:57:00,143 INFO [9] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-06 11:57:01,650 INFO [12] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-09-06 11:57:11,110 INFO [9] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 11:57:15,686 INFO [12] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 11:57:19,855 INFO [12] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:57:19,858 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:57:25,774 INFO [12] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:24,471 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket item executed succesfuly.
+2019-09-06 11:59:24,476 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:24,479 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:59:24,497 ERROR [9] Server.Providers.Logger.LogMessage - Add ticket success.
+2019-09-06 11:59:35,119 INFO [16] Server.Providers.Logger.LogMessage - Change TicketItem command.
+2019-09-06 11:59:35,130 INFO [9] Server.Providers.Logger.LogMessage - Change Ticket item executed succesfuly.
+2019-09-06 11:59:35,130 INFO [16] Server.Providers.Logger.LogMessage - Change TicketItem command done.
+2019-09-06 11:59:35,134 INFO [17] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:35,139 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:59:37,991 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket Item command.
+2019-09-06 11:59:38,004 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket item executed succesfuly.
+2019-09-06 11:59:38,006 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket Item command done.
+2019-09-06 11:59:38,008 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:38,009 INFO [17] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:59:49,272 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket command.
+2019-09-06 11:59:49,282 INFO [9] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 11:59:49,283 INFO [17] Server.Providers.Logger.LogMessage - Add Ticket command done.
+2019-09-06 11:59:49,285 INFO [9] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 11:59:49,287 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:49,289 INFO [17] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 11:59:56,462 INFO [17] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-09-06 11:59:56,471 INFO [16] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 11:59:56,472 INFO [9] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-09-06 11:59:56,475 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 11:59:56,479 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:00:00,289 INFO [9] Server.Providers.Logger.LogMessage - Clone Bilateral executed succesfuly.
+2019-09-06 12:00:00,292 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:00:00,298 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:00:01,900 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-06 12:00:01,908 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:00:01,909 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-06 12:00:01,912 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:00:01,918 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:00:03,775 INFO [9] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:00:03,784 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:00:03,784 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:00:03,785 INFO [16] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:00:03,787 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:00:03,791 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:00:04,926 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:00:04,928 INFO [9] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:00:04,971 ERROR [16] Server.Providers.Logger.LogMessage - Change Ticket executed unsuccesfuly.
+2019-09-06 12:00:11,004 INFO [17] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:00:11,006 INFO [16] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:00:11,018 ERROR [17] Server.Providers.Logger.LogMessage - Change Ticket executed unsuccesfuly.
+2019-09-06 12:00:12,189 INFO [17] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:00:12,195 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:00:12,196 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 12:00:12,199 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:00:12,203 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:00:16,944 INFO [9] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:00:17,522 INFO [17] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:00:17,532 INFO [9] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:00:17,533 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:00:17,535 INFO [9] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:00:17,539 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:00:17,542 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:02:53,862 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-06 12:02:53,868 INFO [8] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:02:53,868 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-06 12:02:53,871 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:02:53,877 INFO [6] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:02:59,107 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:02:59,121 INFO [8] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:02:59,122 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:02:59,124 INFO [8] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:02:59,127 INFO [8] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:02:59,130 INFO [6] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:05,929 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:05,933 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:03:05,933 INFO [8] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 12:03:05,935 INFO [8] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:05,937 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:06,689 INFO [6] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:06,694 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:03:06,695 INFO [8] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 12:03:06,698 INFO [6] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:06,700 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:08,069 INFO [8] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:08,074 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:03:08,075 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:03:08,076 INFO [16] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:08,078 INFO [8] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:08,079 INFO [16] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:08,638 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:08,646 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:03:08,649 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:03:08,650 INFO [16] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:08,653 INFO [6] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:08,655 INFO [8] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:09,069 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:09,072 INFO [8] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:09,092 ERROR [16] Server.Providers.Logger.LogMessage - Change Ticket executed unsuccesfuly.
+2019-09-06 12:03:09,667 INFO [8] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:09,669 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:03:10,105 INFO [6] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:10,109 INFO [16] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:03:10,110 INFO [8] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-09-06 12:03:10,111 INFO [16] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:10,113 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:10,114 INFO [8] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:10,689 INFO [6] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:10,690 INFO [8] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:10,705 ERROR [6] Server.Providers.Logger.LogMessage - Change Ticket executed unsuccesfuly.
+2019-09-06 12:03:11,687 INFO [8] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:11,693 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:03:11,693 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 12:03:11,696 INFO [16] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:11,698 INFO [6] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:47,451 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:47,464 INFO [15] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:03:47,466 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:03:47,468 INFO [6] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:47,471 INFO [15] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:47,472 INFO [12] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:49,333 INFO [15] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 12:03:49,337 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 12:03:49,338 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 12:03:49,340 INFO [15] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:49,342 INFO [6] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:03:50,648 INFO [15] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 12:03:50,660 INFO [6] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 12:03:50,661 INFO [15] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 12:03:50,663 INFO [6] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 12:03:50,665 INFO [6] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:03:50,667 INFO [15] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:14:53,518 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-06 12:14:56,965 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket data.
+2019-09-06 12:14:57,072 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket item data.
+2019-09-06 12:15:25,621 INFO [10] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 12:15:25,670 INFO [10] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:15:25,678 INFO [10] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 12:15:39,797 INFO [5] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 12:15:42,957 INFO [3] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:13:16,229 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-06 16:13:24,433 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket data.
+2019-09-06 16:13:24,718 INFO [1] Server.Providers.Logger.LogMessage - Checking existing Ticket item data.
+2019-09-06 16:13:41,935 INFO [15] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 16:13:42,086 INFO [12] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:13:42,108 INFO [12] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:15:25,533 INFO [12] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 16:15:25,574 INFO [13] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:15:25,580 INFO [14] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:15:33,171 INFO [12] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-06 16:15:33,739 INFO [14] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-06 16:15:34,947 INFO [12] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-06 16:15:39,412 INFO [14] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-06 16:15:39,426 INFO [12] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-06 16:15:40,354 INFO [14] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-06 16:16:12,667 INFO [14] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-06 16:16:14,264 INFO [10] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-09-06 16:16:53,972 INFO [10] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 16:16:59,430 INFO [6] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:16:59,439 INFO [10] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:17:19,742 INFO [10] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:17:29,070 INFO [17] Server.Providers.Logger.LogMessage - Add Ticket item executed succesfuly.
+2019-09-06 16:17:29,076 INFO [10] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:17:29,091 INFO [17] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:17:29,146 ERROR [10] Server.Providers.Logger.LogMessage - Add ticket success.
+2019-09-06 16:17:46,373 INFO [10] Server.Providers.Logger.LogMessage - Change TicketItem command.
+2019-09-06 16:17:46,418 INFO [10] Server.Providers.Logger.LogMessage - Change Ticket item executed succesfuly.
+2019-09-06 16:17:46,421 INFO [9] Server.Providers.Logger.LogMessage - Change TicketItem command done.
+2019-09-06 16:17:46,441 INFO [15] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:17:46,453 INFO [18] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:17:50,640 INFO [15] Server.Providers.Logger.LogMessage - Delete Ticket Item command.
+2019-09-06 16:17:50,668 INFO [10] Server.Providers.Logger.LogMessage - Delete Ticket item executed succesfuly.
+2019-09-06 16:17:50,671 INFO [15] Server.Providers.Logger.LogMessage - Delete Ticket Item command done.
+2019-09-06 16:17:50,677 INFO [15] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:17:50,681 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:17:53,422 INFO [18] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 16:17:53,542 ERROR [9] Server.Providers.Logger.LogMessage - Add Ticket item executed unsuccesfuly.
+2019-09-06 16:18:12,110 INFO [9] Server.Providers.Logger.LogMessage - Add Ticket command.
+2019-09-06 16:18:12,211 ERROR [19] Server.Providers.Logger.LogMessage - Add Ticket command (Ticket info not valid) not done.
+2019-09-06 16:18:23,501 INFO [19] Server.Providers.Logger.LogMessage - Add Ticket command.
+2019-09-06 16:18:23,541 INFO [9] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 16:18:23,548 INFO [3] Server.Providers.Logger.LogMessage - Add Ticket command done.
+2019-09-06 16:18:23,554 INFO [9] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 16:18:23,563 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:23,568 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:31,778 INFO [19] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-09-06 16:18:31,802 INFO [3] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 16:18:31,804 INFO [9] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-09-06 16:18:31,815 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:31,838 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:34,891 INFO [9] Server.Providers.Logger.LogMessage - Clone Bilateral executed succesfuly.
+2019-09-06 16:18:34,901 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:34,912 INFO [19] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:47,563 INFO [3] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-06 16:18:47,575 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 16:18:47,577 INFO [3] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-06 16:18:47,584 INFO [19] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:47,602 INFO [9] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:48,761 INFO [3] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 16:18:48,777 INFO [9] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 16:18:48,779 INFO [19] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 16:18:48,782 INFO [9] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 16:18:48,787 INFO [19] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:48,798 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:50,205 INFO [9] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 16:18:50,213 INFO [3] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 16:18:50,214 INFO [19] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 16:18:50,220 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:50,229 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:51,943 INFO [19] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 16:18:51,957 INFO [3] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 16:18:51,958 INFO [19] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 16:18:51,962 INFO [3] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 16:18:51,968 INFO [19] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:51,977 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:52,510 INFO [19] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-06 16:18:52,516 INFO [3] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 16:18:52,518 INFO [19] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-06 16:18:52,523 INFO [9] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:52,542 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:18:53,094 INFO [19] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-06 16:18:53,104 INFO [3] Server.Providers.Logger.LogMessage - Add Ticket executed succesfuly.
+2019-09-06 16:18:53,105 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-06 16:18:53,108 INFO [3] Server.Providers.Logger.LogMessage - Get One Ticket executed succesfuly.
+2019-09-06 16:18:53,113 INFO [19] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:18:53,127 INFO [3] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:21:01,423 INFO [7] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-06 16:21:01,500 INFO [7] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:21:01,537 INFO [8] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:21:15,751 INFO [8] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-06 16:21:15,761 INFO [5] Server.Providers.Logger.LogMessage - Delete Ticket executed succesfuly.
+2019-09-06 16:21:15,762 INFO [6] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-06 16:21:15,773 INFO [7] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:21:15,788 INFO [8] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:21:24,128 INFO [8] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-09-06 16:21:24,137 INFO [5] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 16:21:51,211 INFO [5] Server.Providers.Logger.LogMessage - Change Ticket executed succesfuly.
+2019-09-06 16:21:51,217 INFO [13] Server.Providers.Logger.LogMessage - Force Change Ticket command done.
+2019-09-06 16:21:51,232 INFO [20] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:21:51,251 INFO [5] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.
+2019-09-06 16:21:54,667 INFO [5] Server.Providers.Logger.LogMessage - Get All Tickets executed succesfuly.
+2019-09-06 16:21:54,685 INFO [20] Server.Providers.Logger.LogMessage - Get All Ticket items executed succesfuly.

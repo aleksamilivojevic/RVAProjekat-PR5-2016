@@ -1,0 +1,92 @@
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Client.exe
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\CommonServiceLocator.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\Login.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.g.resources
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.exe
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Client.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\Common.dll.config
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddUser.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeInfo.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddUser.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeInfo.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddTicket.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddTicketItem.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeTicket.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeTicketItem.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddTicket.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\AddTicketItem.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeTicket.baml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Client\obj\Debug\Views\ChangeTicketItem.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Client.exe.config
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Client.exe
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Client.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Common.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\CommonServiceLocator.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\EntityFramework.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Common.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\Common.dll.config
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\bin\Debug\EntityFramework.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddTicket.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddTicketItem.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddUser.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeInfo.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeTicket.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeTicketItem.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\App.g.cs
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddTicket.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddTicketItem.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\AddUser.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeInfo.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeTicket.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\ChangeTicketItem.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\Login.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.g.resources
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.exe
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Client\obj\Debug\Client.pdb

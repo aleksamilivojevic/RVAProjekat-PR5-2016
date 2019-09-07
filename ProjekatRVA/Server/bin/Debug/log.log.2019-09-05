@@ -1,0 +1,46 @@
+﻿2019-09-05 12:34:46,916 INFO [15] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-05 12:34:48,072 INFO [14] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-05 12:36:47,120 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-05 12:36:47,144 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-05 12:36:48,232 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:36:48,266 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:36:49,455 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:36:49,460 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:36:50,087 INFO [17] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:36:50,093 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:36:50,576 INFO [17] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:36:50,583 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:36:51,338 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:36:51,343 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:36:51,792 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:36:51,795 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:36:56,427 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-05 12:36:56,432 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-05 12:36:58,255 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-05 12:36:58,259 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-09-05 12:36:59,333 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:36:59,340 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:36:59,804 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:36:59,810 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:37:00,283 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:37:00,289 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:37:02,516 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:02,522 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:02,929 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:02,933 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:03,383 INFO [17] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:03,387 INFO [17] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:04,203 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:37:04,208 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:37:04,633 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:37:04,638 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:37:05,024 INFO [17] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-05 12:37:05,029 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-09-05 12:37:05,617 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:05,621 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:06,053 INFO [17] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:06,056 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:06,442 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-05 12:37:06,445 INFO [16] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-09-05 12:37:48,358 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-09-05 12:37:48,365 INFO [10] Server.Providers.Logger.LogMessage - Delete Ticket command done.

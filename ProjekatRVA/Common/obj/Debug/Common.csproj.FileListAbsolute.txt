@@ -1,0 +1,50 @@
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\Common.dll.config
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\log4net.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\log4net.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\obj\Debug\Common.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\obj\Debug\Common.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\CommonServiceLocator.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Aleksa Milivojevic\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\Common.dll.config
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\Common.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\Common.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\CommonServiceLocator.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\EntityFramework.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\log4net.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\EntityFramework.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\bin\Debug\log4net.xml
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\obj\Debug\Common.dll
+C:\Users\MILI\Desktop\RVA\ProjekatRVA\Common\obj\Debug\Common.pdb

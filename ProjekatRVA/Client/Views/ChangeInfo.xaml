@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client.Views.ChangeInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d" Background="DarkCyan"
+        Title="ChangeInfo" Height="642.747" Width="500.33" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Foreground="White" Content="CHANGE INFO" HorizontalAlignment="Center" Margin="160,30,104.6,0" VerticalAlignment="Top" FontSize="24" Width="229" FontWeight="Bold" Height="40"/>
+
+        <Label Foreground="White" Content="Username" HorizontalAlignment="Left" Margin="101,129,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="229,129,0,0" TextWrapping="Wrap" Text="{Binding User.Username}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding User.ValidationErrors[Username]}" Foreground="red" HorizontalAlignment="Left" Margin="107,178,0,0" VerticalAlignment="Top" Width="295" Height="26"/>
+        <Label Content="{Binding CheckUsername}" Foreground="red" HorizontalAlignment="Left" Margin="107,178,0,0" VerticalAlignment="Top" Width="295" Height="26"/>
+
+        <Label Foreground="White" Content="Password" HorizontalAlignment="Left" Margin="107,207,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="229,207,0,0" TextWrapping="Wrap" Text="{Binding User.Password}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding User.ValidationErrors[Password]}" Foreground="red" HorizontalAlignment="Left" Margin="107,256,0,0" VerticalAlignment="Top" Width="295" Height="26"/>
+
+        <Label Foreground="White" Content="First Name" HorizontalAlignment="Left" Margin="91,288,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="229,286,0,0" TextWrapping="Wrap" Text="{Binding User.FirstName}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding User.ValidationErrors[FirstName]}" Foreground="red" HorizontalAlignment="Left" Margin="107,335,0,0" VerticalAlignment="Top" Width="295" Height="26"/>
+
+        <Label Foreground="White" Content="Last Name" HorizontalAlignment="Left" Margin="96,369,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="229,369,0,0" TextWrapping="Wrap" Text="{Binding User.LastName}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding User.ValidationErrors[LastName]}" Foreground="red" HorizontalAlignment="Left" Margin="107,418,0,0" VerticalAlignment="Top" Width="295" Height="26"/>
+        <Button Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" Content="CHANGE" Command="{Binding ChangeInfoCommand}" Margin="148,478,147.6,0" VerticalAlignment="Top" FontSize="36" Height="61" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+﻿<Window x:Class="Client.Views.AddTicketItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d" Background="DarkCyan"
+        Title="AddTicketItem" Height="797.033" Width="500.33" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Foreground="White"  Content="ADD TICKET ITEM" Margin="143,30,136.6,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Foreground="White"  Content="Seat" HorizontalAlignment="Left" Margin="134,129,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox  Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="198,129,0,0" TextWrapping="Wrap" Text="{Binding TicketItem.Seats}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding TicketItem.ValidationErrors[Seats]}" Foreground="red" HorizontalAlignment="Left" Margin="127,178,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Label  Foreground="White" Content="Quantity" HorizontalAlignment="Left" Margin="84,207,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" RenderTransformOrigin="0.151,0.563"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="198,207,0,0" TextWrapping="Wrap" Text="{Binding TicketItem.Quantity}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding TicketItem.ValidationErrors[Quantity]}" Foreground="red" HorizontalAlignment="Left" Margin="127,256,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Label Foreground="White"  Content="Row" HorizontalAlignment="Left" Margin="134,294,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <TextBox Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="198,292,0,0" TextWrapping="Wrap" Text="{Binding TicketItem.Row}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label Content="{Binding TicketItem.ValidationErrors[Row]}" Foreground="red" HorizontalAlignment="Left" Margin="127,341,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Label Foreground="White"  Content="Ticket" HorizontalAlignment="Left" Margin="114,388,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding Tickets}" SelectedItem="{Binding TicketItem.Ticket}"  HorizontalAlignment="Left" Margin="198,388,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+        <Label Content="{Binding TicketItem.ValidationErrors[Ticket]}" Foreground="red" HorizontalAlignment="Left" Margin="127,430,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Label Foreground="White"  Content="Auditorium" HorizontalAlignment="Left" Margin="53,548,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding Auditoriums}" SelectedItem="{Binding TicketItem.Auditorium}"  HorizontalAlignment="Left" Margin="198,548,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+        <Label Content="{Binding TicketItem.ValidationErrors[Auditorium]}" Foreground="red" HorizontalAlignment="Left" Margin="127,595,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Label Foreground="White"  Content="Theater" HorizontalAlignment="Left" Margin="96,466,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding Theaters}" SelectedItem="{Binding SelectedTheater}"  HorizontalAlignment="Left" Margin="198,466,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+        <Label Content="{Binding TicketItem.ValidationErrors[Theater]}" Foreground="red" HorizontalAlignment="Left" Margin="127,513,0,0" VerticalAlignment="Top" Width="244" Height="26"/>
+
+        <Button Foreground="White" Background="Transparent" BorderBrush="White" BorderThickness="2" Content="ADD" Command="{Binding AddTicketItemCommand}" Margin="186,664,187.6,0" VerticalAlignment="Top" FontSize="36" Height="61" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

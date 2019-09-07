@@ -1,0 +1,203 @@
+﻿2019-08-27 13:20:14,916 INFO [7] Server.Providers.Logger.LogMessage - Change User info command.
+2019-08-27 13:20:16,838 INFO [6] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-08-27 13:20:31,562 INFO [6] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-08-27 13:21:07,879 INFO [6] Server.Providers.Logger.LogMessage - Change TicketItem command.
+2019-08-27 13:21:10,754 INFO [6] Server.Providers.Logger.LogMessage - Change TicketItem command (TicketItem info not valid) not done.
+2019-08-27 13:21:14,470 INFO [4] Server.Providers.Logger.LogMessage - Change TicketItem command.
+2019-08-27 13:21:14,498 INFO [4] Server.Providers.Logger.LogMessage - Change TicketItem command done.
+2019-08-27 13:21:20,512 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket Item command.
+2019-08-27 13:21:20,547 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket Item command done.
+2019-08-27 13:21:22,180 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:28,359 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:28,877 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:29,047 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:29,327 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:29,508 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:21:48,283 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command.
+2019-08-27 13:21:48,313 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command done.
+2019-08-27 13:21:56,846 INFO [4] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:21:56,860 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-08-27 13:22:07,019 INFO [7] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-08-27 13:22:07,031 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-08-27 13:22:10,127 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:10,140 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:22:11,187 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:13,657 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:15,216 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:15,481 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:15,628 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:15,781 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:15,950 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:16,112 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:16,595 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:17,140 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:17,297 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:17,460 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:17,629 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:18,926 INFO [7] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:22:18,946 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:22:28,314 INFO [7] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:28,327 INFO [7] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:22:28,904 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:29,526 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:29,697 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:22:29,890 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:20,021 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-08-27 13:24:20,032 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-08-27 13:24:21,360 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:21,376 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:22,023 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:22,032 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:22,646 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:22,660 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:23,253 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:23,261 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:23,826 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:23,841 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:24,369 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:24,378 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:24,890 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:24,908 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:25,418 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:25,426 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:26,220 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:26,233 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:24:26,908 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:26,920 INFO [12] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:24:27,451 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:27,465 INFO [11] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:24:28,838 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:29,363 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:30,449 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:30,977 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:31,344 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:31,730 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:31,994 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:32,006 INFO [11] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:24:32,163 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:32,181 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:32,352 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:32,475 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:33,302 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:33,485 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:33,612 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:33,765 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:33,903 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:34,060 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:34,431 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:34,442 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:34,603 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:34,623 INFO [11] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:24:34,841 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:35,016 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:35,027 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:35,174 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:35,336 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:35,491 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:35,639 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:36,146 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:36,940 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:36,954 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:37,524 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:37,939 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:37,946 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:24:38,136 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,149 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:38,285 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,402 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,518 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,658 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,827 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:38,992 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:39,282 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:39,444 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:39,592 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:39,737 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:39,888 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:40,020 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:40,190 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:40,352 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:40,498 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:40,658 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:41,034 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:41,416 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:41,425 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:41,592 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:41,605 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:24:41,744 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:41,867 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:41,876 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:24:42,025 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:42,339 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:42,502 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:42,654 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:42,825 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:43,035 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:43,212 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:43,384 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:43,562 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:43,804 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:44,012 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:44,220 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:44,404 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:24:45,244 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:46,279 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:46,293 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:46,847 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:47,360 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:47,367 INFO [11] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:24:47,661 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:24:47,674 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:24:47,850 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:03,531 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-08-27 13:25:03,539 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-08-27 13:25:05,330 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:05,344 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:25:06,922 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:25:06,931 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:25:08,124 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:08,138 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:25:09,019 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:25:09,028 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:25:10,153 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:10,167 INFO [11] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:25:11,064 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:25:11,073 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:25:22,668 INFO [12] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:25:22,680 INFO [11] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-08-27 13:25:26,802 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:26,815 INFO [4] Server.Providers.Logger.LogMessage - Change Ticket command undo done.
+2019-08-27 13:25:27,681 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:27,695 INFO [12] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:25:43,922 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command.
+2019-08-27 13:25:43,944 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command done.
+2019-08-27 13:25:46,503 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:46,515 INFO [13] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:25:47,460 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:53,280 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:25:54,982 INFO [7] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:25:54,996 INFO [13] Server.Providers.Logger.LogMessage - Add Ticket command redo done.
+2019-08-27 13:25:56,166 INFO [4] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:25:56,176 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command redo done.
+2019-08-27 13:26:03,762 INFO [7] Server.Providers.Logger.LogMessage - Redo operation.
+2019-08-27 13:26:03,777 INFO [4] Server.Providers.Logger.LogMessage - Change Ticket command redo done.
+2019-08-27 13:26:20,230 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:26:20,249 INFO [6] Server.Providers.Logger.LogMessage - Change Ticket command undo done.
+2019-08-27 13:26:20,875 INFO [6] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:26:20,889 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command undo done.
+2019-08-27 13:26:21,762 INFO [4] Server.Providers.Logger.LogMessage - Undo operation.
+2019-08-27 13:26:21,770 INFO [4] Server.Providers.Logger.LogMessage - Add Ticket command undo done.
+2019-08-27 13:28:01,189 INFO [5] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-08-27 13:28:01,741 INFO [4] Server.Providers.Logger.LogMessage - Delete Ticket command done.
+2019-08-27 13:28:13,518 INFO [4] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:28:17,318 ERROR [4] Server.Providers.Logger.LogMessage - Change Ticket command not done.
+2019-08-27 13:28:19,066 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:28:20,121 INFO [4] Server.Providers.Logger.LogMessage - Force Change Ticket command done.
+2019-08-27 13:28:45,487 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:28:45,514 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-08-27 13:28:53,687 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:28:53,703 INFO [9] Server.Providers.Logger.LogMessage - Change Ticket command done.
+2019-08-27 13:28:57,835 INFO [9] Server.Providers.Logger.LogMessage - Delete Ticket command.
+2019-08-27 13:29:02,596 INFO [9] Server.Providers.Logger.LogMessage - Force Change Ticket command done.
+2019-08-27 13:29:13,545 INFO [7] Server.Providers.Logger.LogMessage - Change Ticket command.
+2019-08-27 13:29:14,607 INFO [9] Server.Providers.Logger.LogMessage - Force Change Ticket command done.
